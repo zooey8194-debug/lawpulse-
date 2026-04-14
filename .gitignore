@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+.claude-design/
+.claudian/
+_site_docs/
+site/
+.venv/
+__pycache__/

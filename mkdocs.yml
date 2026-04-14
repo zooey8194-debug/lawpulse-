@@ -1,0 +1,32 @@
+site_name: LawPulse Vault
+site_description: LawPulse legal knowledge vault
+site_url: ""
+docs_dir: _site_docs
+site_dir: site
+use_directory_urls: true
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - meta
+  - tables
+  - toc:
+      permalink: true
+  - fenced_code
+  - pymdownx.superfences
+
+extra:
+  generator: false

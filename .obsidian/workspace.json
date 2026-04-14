@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "62e07c12de950cd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7fb212a02f15f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91bf6b58ffa066aa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "112b7efd845ceffc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/a0000/Documents/LawPulse-Vault-new",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "终端：✳ Claude Code"
+            }
+          },
+          {
+            "id": "d0505996cf89dfb9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "235fbd9249e3b7ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "433047ac72fb74c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "83c9d81d80265764",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e354d7e4e43eced",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "094c40ad95a8e92a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6f5ac219a1fdb690",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 466.5
+  },
+  "right": {
+    "id": "a6801e2d523fb86c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b8cfb913930158e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06eb0b1294ba251d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06-系统 (System)/Templates/_人物模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "_人物模板 的反向链接列表"
+            }
+          },
+          {
+            "id": "03b062c5c3fe2c01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06-系统 (System)/Templates/_人物模板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "_人物模板 的出链列表"
+            }
+          },
+          {
+            "id": "fe4ed199087040c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0f778a073e20fc5a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "10fb9e5407ea91f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false,
+      "obsidian42-brat:BRAT": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "235fbd9249e3b7ba",
+  "lastOpenFiles": [
+    "02-人物 (Entities)/20260412-电话咨询-高龄离婚纠纷-当事人画像.md",
+    "01-案件 (Cases)/20260413-离婚-当事人/02-谈案报告-对外-当事人-20260413.md",
+    "01-案件 (Cases)/20260413-离婚-当事人/01-谈案报告-对内-当事人-20260413.md",
+    "01-案件 (Cases)/20260413-离婚-当事人/00-案卷-当事人-20260413.md",
+    "01-案件 (Cases)/20260413-离婚-当事人",
+    "05-智库 (Knowledge)/案由与分类索引.md",
+    "00-律师自我档案/001-我的执业画像.md",
+    "00-律师自我档案/003-执业画像复测周期.md",
+    "00-律师自我档案/002-执业画像自评问卷.md",
+    "提示词模板/prompt-案由推断.md",
+    "01-案件 (Cases)/20260412-劳动争议-马先生/00-案卷-马先生-20260412.md",
+    "01-案件 (Cases)/20260412-劳动争议-马先生/02-谈案报告-对外-马先生-20260412.md",
+    "01-案件 (Cases)/20260412-劳动争议-马先生/03-当事人画像-马先生-20260412.md",
+    "01-案件 (Cases)/20260412-劳动争议-马先生/01-谈案报告-对内-马先生-20260412.md",
+    "01-案件 (Cases)/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生.md",
+    "01-案件 (Cases)/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生-谈案报告-致当事人.md",
+    "01-案件 (Cases)/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生-谈案报告-内部.md",
+    "01-案件 (Cases)/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生-当事人画像.md",
+    "02-人物 (Entities)/马先生-福建华夏货运有限公司.md",
+    "_INDEX.md",
+    "01-案件 (Cases)/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生-谈案报告-内部.md",
+    "01-案件 (Cases)/20260412-劳动争议-马先生",
+    "01-案件 (Cases)/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生.md",
+    "02-人物 (Entities)/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生-当事人画像.md",
+    "06-系统 (System)/Templates/_案件模板.md",
+    "01-案件 (Cases)/20260412-劳动争议（劳动者解除劳动关系并主张经济补偿）-马先生-谈案报告-致当事人.md",
+    "02-人物 (Entities)/福建华夏货运有限公司.md",
+    "06-系统 (System)/Templates/_复盘模板.md"
+  ]
+}

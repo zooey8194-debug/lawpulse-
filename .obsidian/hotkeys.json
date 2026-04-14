@@ -1,0 +1,28 @@
+{
+  "plugin:quickadd": [
+    {
+      "modifiers": ["Ctrl", "Shift"],
+      "key": "1"
+    },
+    {
+      "modifiers": ["Ctrl", "Shift"],
+      "key": "2"
+    },
+    {
+      "modifiers": ["Ctrl", "Shift"],
+      "key": "3"
+    },
+    {
+      "modifiers": ["Ctrl", "Shift"],
+      "key": "D"
+    },
+    {
+      "modifiers": ["Ctrl", "Shift"],
+      "key": "J"
+    },
+    {
+      "modifiers": ["Ctrl", "Shift"],
+      "key": "L"
+    }
+  ]
+}

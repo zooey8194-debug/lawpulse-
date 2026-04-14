@@ -1,0 +1,59 @@
+{
+  "templates_folder": "06-系统 (System)/Templates",
+  "enable_file_templates": true,
+  "trigger_on_file_creation": true,
+  "enable_system_commands": false,
+  "enable_strict_mode": false,
+  "auto_jump_to_cursor": false,
+  "colored_keyword": false,
+  "syntax_highlight": true,
+  "show_in_document_title": false,
+  "enable_prompt_for_external_temperature_files": true,
+  "prompt_for_external_temperature_files_command": "code",
+  "remove_line_on_duplicate": true,
+  "ignore_unamppable_functions": false,
+  "fallback_function": "tp.file.creation_date",
+  "quick_update": {
+    "update_created": false,
+    "update_modified": true,
+    "update_title": false
+  },
+  "user_templates": [
+    {
+      "name": "案件模板",
+      "path": "06-系统 (System)/Templates/_案件模板.md",
+      "type": "file",
+      "enabled": true
+    },
+    {
+      "name": "人物模板",
+      "path": "06-系统 (System)/Templates/_人物模板.md",
+      "type": "file",
+      "enabled": true
+    },
+    {
+      "name": "当事人画像模板",
+      "path": "06-系统 (System)/Templates/_当事人画像模板.md",
+      "type": "file",
+      "enabled": true
+    },
+    {
+      "name": "法官画像模板",
+      "path": "06-系统 (System)/Templates/_法官画像模板.md",
+      "type": "file",
+      "enabled": true
+    },
+    {
+      "name": "对方律师画像模板",
+      "path": "06-系统 (System)/Templates/_对方律师画像模板.md",
+      "type": "file",
+      "enabled": true
+    },
+    {
+      "name": "复盘模板",
+      "path": "06-系统 (System)/Templates/_复盘模板.md",
+      "type": "file",
+      "enabled": true
+    }
+  ]
+}

@@ -8,12 +8,21 @@ use_directory_urls: true
 theme:
   name: material
   language: zh
+  custom_dir: overrides
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+  font: false
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.top
     - content.code.copy
     - search.highlight
+
+extra_css:
+  - stylesheets/apple.css
 
 plugins:
   - search
